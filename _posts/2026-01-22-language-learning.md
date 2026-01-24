@@ -2,8 +2,16 @@
 layout: post
 title: "The Polyglot Dev: A Journey Through Cantonese, Shanghainese, and Japanese"
 date: 2026-01-22
-categories: [Life, Learning]
-tags: [Language Exchange, Cantonese, Linguistics]
+categories:
+  - Life
+  - Learning
+tags:
+  - Language Exchange
+  - Cantonese
+  - Linguistics
+cantonese:
+  - sss
+translation: testklll
 ---
 
 This is a blog to track the learning path for me and Holly, who are eager to refine our linguistic ability and add some fun to the tedious life. I am interested in Cantonese， Japanese and Holly loves Shanghainese. I will write down what we learned every day(hopefully) to help us review and visualize our study. Quite meaningful right? Not only practise my language but also eventually build something for my own fun. Vamous!
@@ -33,7 +41,7 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 | Vocabulary / Phrase | Romanization (Jyutping) | Meaning | Context |
 | :--- | :--- | :--- | :--- |
 | Zok-nyih 昨捏 | zok6 nyih8 | Yesterday | The more colloquial and common way to say "Yesterday" in Shanghai. |
-| Jin-zao 今朝 | jin1 zau1 | Today | The standard way to say ""Today"" in Shanghainese.|
+| Jin-zao 今朝 | jin1 zau1 | Today | The standard way to say "Today" in Shanghainese.|
 | Min-zao 明朝 | min2 zau1 | Tomorrow | Referring to the next day.
 
 ### 🇯🇵 Japanese Snippets: The "Add-on" Module
