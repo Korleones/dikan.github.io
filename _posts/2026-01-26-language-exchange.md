@@ -20,7 +20,7 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 | Jo-san 早晨| zou2 san4 | Good morning | The most standard and common morning greeting. |
 |Zok-jat 昨日| zok6 jat6 | Yesterday | Referring to the previous day.
 |Gam-jat 今日| gam1 jat6 | Today | Referring to the current day.
-|Ting-jat 听日 | ting1 jat6 |Tomorrow | Referring to the following day.
+|Ting-jat 听日 | ting1 jat6 |Tomorrow | Referring to the following day
 
 
 
