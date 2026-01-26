@@ -1,8 +1,11 @@
 ---
+layout: post
 title: "The Polyglot Dev: A Journey Through Cantonese, Shanghainese, and Japanese"
-date: 2026-01-26T17:00:00.000+08:00
-translation: lalala
+date: 2026-01-22
+categories: [Life, Learning]
+tags: [Language Exchange, Cantonese, Linguistics]
 ---
+
 This is a blog to track the learning path for me and Holly, who are eager to refine our linguistic ability and add some fun to the tedious life. I am interested in Cantonese， Japanese and Holly loves Shanghainese. I will write down what we learned every day(hopefully) to help us review and visualize our study. Quite meaningful right? Not only practise my language but also eventually build something for my own fun. Vamous!
 
 ---
@@ -20,7 +23,7 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 | Jo-san 早晨| zou2 san4 | Good morning | The most standard and common morning greeting. |
 |Zok-jat 昨日| zok6 jat6 | Yesterday | Referring to the previous day.
 |Gam-jat 今日| gam1 jat6 | Today | Referring to the current day.
-|Ting-jat 听日 | ting1 jat6 |Tomorrow | Referring to the following day
+|Ting-jat 听日 | ting1 jat6 |Tomorrow | Referring to the following day.
 
 
 
@@ -43,5 +46,3 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 | Aki 秋 | aki | Autumn | Known for beautiful maple leaves in Japan. |
 | Yuki 雪 | yuki | Snow | Think of "Yuki-onna" (Snow Woman) in folklore. |
 | Shinu 死ぬ | shinu | To die | A very blunt verb; usually replaced by "nakunaru" in polite speech. |
-
-
