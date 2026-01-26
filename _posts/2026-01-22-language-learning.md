@@ -10,7 +10,7 @@ tags:
   - Cantonese
   - Linguistics
 cantonese:
-  - sss
+  - 唞
 translation: testklll
 ---
 
