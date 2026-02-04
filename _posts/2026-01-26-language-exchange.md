@@ -88,7 +88,7 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 | **元気** | げんき | genki | Healthy / Energetic | Used in "O-genki desu ka?" (How are you?). |
 | **犬** | いぬ | inu | Dog | As in "Shiba Inu" (柴犬). |
 | **猫** | ねこ | neko | Cat | A common trope in anime and folklore. |
-| **秋** | あき | aki | Autumn | Famous for "Momiji" (red maple leaves). |
+| **秋** | あき | aki | Autumn | Famous for "Momiji" (red maple leaves)|
 | **雪** | ゆき | yuki | Snow | Associated with winter and "Yuki-onna". |
 | **死ぬ** | しぬ | shinu | To die | A blunt verb; use "nakunaru" (亡くなる) for politeness. |
 
