@@ -34,7 +34,7 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 | **しています (います)** | shite-imasu | Am doing | **Wrapper:** Progressive state + Politeness flag. |
 
 
-### 4. 🏙️ Shanghainese
+### 🏙️ Shanghainese
 
 
 | Vocabulary / Phrase | Romanization | Meaning | Context & Logic |
@@ -46,6 +46,7 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 
 ---
 <br>
+
 ## 📅 Day 2: Add-ons
 *Jan 31, 2026*
 ### 🇭🇰 Cantonese Module
@@ -105,7 +106,6 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 
 ---
 
----
 <br>
 
 ## 📅 Day 1: The Initialization
