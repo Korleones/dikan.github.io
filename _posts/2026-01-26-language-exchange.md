@@ -6,9 +6,46 @@ categories: [Life, Learning]
 tags: [Language Exchange, Cantonese, Linguistics]
 ---
 
-This is a blog to track the learning path for me and Holly, who are eager to refine our linguistic ability and add some fun to the tedious life. I am interested in Cantonese， Japanese and Holly loves Shanghainese. I will write down what we learned every day(hopefully) to help us review and visualize our study. Quite meaningful right? Not only practise my language but also eventually build something for my own fun. Vamous!
+This is a blog to track the learning path for me and Holly, who are eager to refine our linguistic ability and add some fun to the tedious life. I am interested in Cantonese, Japanese and Holly loves Shanghainese. I will write down what we learned every day(hopefully) to help us review and visualize our study. Quite meaningful right? Not only practise my language but also eventually build something for my own fun. Vamous!
 
 ---
+## 📅 Week3  2026.2.2 - 2026.2.7
+
+### 🇭🇰 Cantonese Module
+
+| Vocabulary / Phrase | Romanization (Jyutping) | Meaning | Context & English Explanation |
+| :--- | :--- | :--- | :--- |
+| **湿湿碎** | sap1 sap1 seoi1 | A piece of cake | Used to describe a task that is trivial or very easy to complete. Equivalent to "No big deal." |
+| **做乜嘢** | zou6 mat1 je5 | What are you doing? | The standard way to ask "What are you doing?" Logic: Do (做) + What (乜) + Thing (嘢). |
+| **做乜 / 做乜鬼** | zou6 mat1 (gwai2) | What (the heck)? | **Zou mat** is the shorthand. **Zou mat gwai** is stronger, like "What the heck are you doing?" |
+| **喺度** | hai2 dou6 | -ing / Right here | Used before a verb to indicate a continuous action (like the English "-ing") or to say "I am here." |
+| **好攰** | hou2 gui6 | So exhausted | Used to express physical or mental tiredness. "I'm so spent after coding all day." |
+| **好嬲** | hou2 nau1 | So angry | Used when you are mad or pissed off. Note: The character "嬲" specifically means angry in Cantonese. |
+| **好叻** | hou2 lek1 | So smart / Capable | A common compliment for someone who is brilliant, talented, or has done a great job. |
+
+
+### 🇯🇵 Japanese module
+
+| Sentence / Component | Romaji | Meaning | Logic / Analogy |
+| :--- | :--- | :--- | :--- |
+| **集中して勉強しています** | Shuuchuu shite benkyou shite imasu | I'm focusing on my studies. | **Stacking logic:** "Focusing AND Studying." |
+| **集中して** | Shuuchuu shite | Focusing | **Modifier/State:** Using "te-form" to link states. |
+| **勉強** | Benkyou | Study | **Core Object:** The noun part of the action. |
+| **しています (います)** | shite-imasu | Am doing | **Wrapper:** Progressive state + Politeness flag. |
+
+
+### 4. 🏙️ Shanghainese
+
+
+| Vocabulary / Phrase | Romanization | Meaning | Context & Logic |
+| :--- | :--- | :--- | :--- |
+| **顺风车** | zen fong cu | Hitch a ride / Carpool | 现代上海话直接发音，"zen" 对应顺，"fong" 对应风，"cu" 对应车。 |
+| **轮船** | len zoe | Ship / Steamboat | 上海话发音，"leng" 对应轮，"zei" 对应船。 |
+| **侬耳朵当八折** | nong ni du dang ba za | Are your ears only working at 80%? | **Logic:** Teasing someone for not listening carefully or mishearing things. |
+| **退招势** | te zao si | Showy / Pretentious | 太丢脸 |
+
+---
+<br>
 ## 📅 Day 2: Add-ons
 *Jan 31, 2026*
 ### 🇭🇰 Cantonese Module
@@ -37,8 +74,8 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 | **Daai-lou 大佬** | daai6 lou2 | Boss / Expert | Can mean a literal boss or a pro engineer. |
 | **Ging 劲** | ging6 | Powerful / Pro | "Your code is so ging!" (very professional). |
 | **Zau-sin 走先** | zau2 sin1 | Leaving now | Said when you leave a group or the office. |
-| **Coi-can 踩亲** | caai2 can1 | Stepped on | "Coi-can fix" means a quick, dirty fix. |
-| **Baak-caat 爆擦** | baau3 caat3 | Very cool / Flashy | Used for high-end graphics or cool effects. |
+| **Coi-can 踩亲** | caai2 can1 | Stepped on | Said when you step on something accidentally |
+| **Baak-caat 爆擦** | baau3 caat3 | Chapped | cracked when lips get dry |
 
 | Vocabulary / Phrase | Romanization (Jyutping) | Meaning | Context / Usage |
 | :--- | :--- | :--- | :--- |
