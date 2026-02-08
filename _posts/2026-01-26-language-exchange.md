@@ -82,6 +82,32 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 | **Oppose** | `op` (against) + `pos` (place) | **To place against** | To set a different view or value against the current one. |
 
 ---
+#### 3. Root: -GEN-
+**Etymology:** Derived from Greek *genos* and Latin *genus*, meaning **“Birth / Origin / Kind / Race”**.  
+**Engineering Intuition:** Visualize **"Creation"** and **"Type"**—the mechanism that spawns new instances or defines the nature of a class/category.
+
+| Word | Morphological Breakdown | Definition (CS/Technical Context) | Typical Application |
+| :--- | :--- | :--- | :--- |
+| **Generate** | gen (birth) + ate (verb suffix) | To produce or create | **Code Generation**: Tools that automatically write boilerplate code. |
+| **Generic** | gen (kind) + ic (adj. suffix) | Relating to a whole group/type | **Generics in C++**: Using templates to write code that works with any data type. |
+| **Generator** | gen (birth) + er/or (agent) | A routine that produces values | **Python Generators**: Functions that yield a sequence of values lazily. |
+| **Degenerate** | de (down/away) + gen (kind) | To fall away from its type | **Degenerate Case**: A limiting case where a problem changes its nature (e.g., a circle with radius 0). |
+| **Indigenous** | indi (within) + gen (birth) + ous | Born within; native | **Indigenous Data**: Data that is local or native to a specific environment/system. |
+| **Heterogeneous** | hetero (different) + gen (kind) | Consisting of different types | **Heterogeneous Computing**: Systems using different types of processors (e.g., CPU + GPU). |
+| **Homogeneous** | homo (same) + gen (kind) | Consisting of the same type | **Homogeneous Cluster**: A server cluster where all nodes have identical hardware. |
+| **Regenerate** | re (again) + gen (birth) | To create or build again | **Regenerate Assets**: Re-building cache or static files (like in your Jekyll site). |
+
+---
+
+#### 💡 工程师的联想笔记：
+
+1. **Generative AI:** 现在的 LLM（大语言模型）被称为 **Generative**，核心就在于它的 **-GEN-** 能力——不是在搜索，而是在“从无到有”地创造（Birth/Origin）内容。
+2. **Generic Programming:** 迪，你在写 C++ Template 时，本质上是在定义一个 **Generic** (Kind) 逻辑，直到实例化时才真正 **Generate** (Birth) 出具体的函数。
+3. **Entropy vs. Degeneracy:** 在算法优化中，如果一个复杂的结构退化成了最简单的形态，我们称之为 **Degenerate**，就像复杂的逻辑流最后降级成了一个简单的 `if-else`。
+
+---
+
+
 <br>
 
 ## 📅 Day 2: Add-ons
@@ -115,7 +141,6 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 | **Coi-can 踩亲** | caai2 can1 | Stepped on | Said when you step on something accidentally |
 | **Baak-caat 爆擦** | baau3 caat3 | Chapped | cracked when lips get dry |
 
-
 | Vocabulary / Phrase | Romanization (Jyutping) | Meaning | Context / Usage |
 | :--- | :--- | :--- | :--- |
 | **Nei giu me meng aa? 你叫咩名呀？** | nei5 giu3 me1 meng2 aa3? | What is your name? | Standard way to ask someone's name. |
@@ -126,6 +151,7 @@ This is a blog to track the learning path for me and Holly, who are eager to ref
 | **Eng-man meng 英文名** | jing1 man4 meng2 | English name | Referring to your English name (e.g., Di). |
 | **Sin-sang 先生** | sin1 saang1 | Mr. / Gentleman | Formal address for a man. |
 | **Siu-ze 小姐** | siu2 ze2 | Ms. / Lady | Formal address for a woman. |
+
 ---
 
 ### 🇯🇵 Japanese Module (日本語)
